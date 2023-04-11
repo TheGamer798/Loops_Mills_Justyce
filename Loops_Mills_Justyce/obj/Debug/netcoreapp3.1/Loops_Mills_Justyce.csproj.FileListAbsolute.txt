@@ -1,0 +1,13 @@
+C:\Users\justyce.mills\source\repos\Loops_Mills_Justyce\Loops_Mills_Justyce\bin\Debug\netcoreapp3.1\Loops_Mills_Justyce.exe
+C:\Users\justyce.mills\source\repos\Loops_Mills_Justyce\Loops_Mills_Justyce\bin\Debug\netcoreapp3.1\Loops_Mills_Justyce.deps.json
+C:\Users\justyce.mills\source\repos\Loops_Mills_Justyce\Loops_Mills_Justyce\bin\Debug\netcoreapp3.1\Loops_Mills_Justyce.runtimeconfig.json
+C:\Users\justyce.mills\source\repos\Loops_Mills_Justyce\Loops_Mills_Justyce\bin\Debug\netcoreapp3.1\Loops_Mills_Justyce.runtimeconfig.dev.json
+C:\Users\justyce.mills\source\repos\Loops_Mills_Justyce\Loops_Mills_Justyce\bin\Debug\netcoreapp3.1\Loops_Mills_Justyce.dll
+C:\Users\justyce.mills\source\repos\Loops_Mills_Justyce\Loops_Mills_Justyce\bin\Debug\netcoreapp3.1\Loops_Mills_Justyce.pdb
+C:\Users\justyce.mills\source\repos\Loops_Mills_Justyce\Loops_Mills_Justyce\obj\Debug\netcoreapp3.1\Loops_Mills_Justyce.csproj.AssemblyReference.cache
+C:\Users\justyce.mills\source\repos\Loops_Mills_Justyce\Loops_Mills_Justyce\obj\Debug\netcoreapp3.1\Loops_Mills_Justyce.AssemblyInfoInputs.cache
+C:\Users\justyce.mills\source\repos\Loops_Mills_Justyce\Loops_Mills_Justyce\obj\Debug\netcoreapp3.1\Loops_Mills_Justyce.AssemblyInfo.cs
+C:\Users\justyce.mills\source\repos\Loops_Mills_Justyce\Loops_Mills_Justyce\obj\Debug\netcoreapp3.1\Loops_Mills_Justyce.csproj.CoreCompileInputs.cache
+C:\Users\justyce.mills\source\repos\Loops_Mills_Justyce\Loops_Mills_Justyce\obj\Debug\netcoreapp3.1\Loops_Mills_Justyce.dll
+C:\Users\justyce.mills\source\repos\Loops_Mills_Justyce\Loops_Mills_Justyce\obj\Debug\netcoreapp3.1\Loops_Mills_Justyce.pdb
+C:\Users\justyce.mills\source\repos\Loops_Mills_Justyce\Loops_Mills_Justyce\obj\Debug\netcoreapp3.1\Loops_Mills_Justyce.genruntimeconfig.cache
